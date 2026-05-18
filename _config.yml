@@ -1,0 +1,14 @@
+title: でびしーと 公開情報
+description: TRPGキャラクターシート管理サービス「でびしーと」のリリースノート、ロードマップ、サポート情報
+url: "https://releases.devisheet.com"
+lang: ja
+
+theme: minima
+
+minima:
+  skin: classic
+
+markdown: kramdown
+
+plugins:
+  - jekyll-relative-links
