@@ -1,6 +1,7 @@
 title: でびしーと 公開情報
 description: TRPGキャラクターシート管理サービス「でびしーと」のリリースノート、ロードマップ、サポート情報
-url: "https://releases.devisheet.com"
+url: "https://devil-string.github.io"
+baseurl: "/devisheet-public"
 lang: ja
 
 theme: minima
